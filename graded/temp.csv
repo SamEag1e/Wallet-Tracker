@@ -1,0 +1,3 @@
+This file only exists to make git push the folders too.
+You can remove this after git clone.
+The program won't use this because it uses .txt files in all modules.
